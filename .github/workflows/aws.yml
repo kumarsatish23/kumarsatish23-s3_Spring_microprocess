@@ -16,8 +16,7 @@ jobs:
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
-            kill -9 $(lsof -t -i:8080)
             git clone https://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@github.com/kumarsatish23/kumarsatish23-s3_Spring_microprocess.git
             cd kumarsatish23-s3_Spring_microprocess
             git pull
-            mvn -B package --file pom.xml
+            mvn install --file pom.xml
