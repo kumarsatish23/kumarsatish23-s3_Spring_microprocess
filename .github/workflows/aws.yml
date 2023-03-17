@@ -21,4 +21,3 @@ jobs:
             cd kumarsatish23-s3_Spring_microprocess
             git pull
             mvn -B package --file pom.xml
-            java -jar target/S3_Microservices_API-0.0.1-SNAPSHOT.jar
