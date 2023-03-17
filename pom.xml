@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>in.vanna</groupId>
 	<artifactId>S3_Microservices_API</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>S3_Microservices_API</name>
 	<description>S3_Microservices_API project t</description>
