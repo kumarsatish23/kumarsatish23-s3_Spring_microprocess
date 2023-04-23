@@ -1,3 +1,0 @@
-2023-03-17 11:36:34.137  INFO 2848 --- [main] i.v.S3MicroservicesApiApplicationTests   : Starting S3MicroservicesApiApplicationTests using Java 17.0.5 on DESKTOP-RKFJCIP with PID 2848 (started by Satish Rai in C:\Users\Satish Rai\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\S3_Microservices_API)
-2023-03-17 11:36:34.157  INFO 2848 --- [main] i.v.S3MicroservicesApiApplicationTests   : No active profile set, falling back to 1 default profile: "default"
-2023-03-17 11:36:44.392  INFO 2848 --- [main] i.v.S3MicroservicesApiApplicationTests   : Started S3MicroservicesApiApplicationTests in 10.85 seconds (JVM running for 13.739)
